@@ -1,5 +1,5 @@
 # Tienda-online
-El código JavaScript proporcionado en el paso 2 tiene las siguientes funciones definidas por el usuario y realiza las siguientes acciones:
+
 
 1. **Función `agregarProductoAlCarrito(producto, cantidad)`**: Esta función toma dos argumentos, `producto` y `cantidad`. Su objetivo es agregar un producto al carrito de compras. Primero verifica si el producto ya está en el carrito, en cuyo caso aumenta la cantidad. Si no está en el carrito, agrega un nuevo elemento al carrito. La función se llama cuando un usuario hace clic en el botón "Agregar al Carrito" en una tarjeta de producto en el catálogo.
 
